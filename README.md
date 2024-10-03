@@ -1,10 +1,6 @@
 # 🎨 **Bem-vindo ao meu portfólio de tecnologia!** 🌟
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Logo do meu portfólio" width="150"/>
-</p>
-
-<p align="center">
   <strong><font size="5" color="#FF6347">🚀 Explorando o mundo da tecnologia e criando interfaces incríveis!</font></strong>
 </p>
 
@@ -23,7 +19,7 @@ Apaixonada por criar soluções interativas e funcionais. Atualmente, trabalho c
 
 ## ✉️ Entre em contato
 
-[![LinkedIn](https://www.linkedin.com/in/vanessabispodev/)
+(https://www.linkedin.com/in/vanessabispodev/)
 [![GitHub](https://github.com/Vanessabispo)
 [![Email](wheidybispo1992@gmail.com)
 
