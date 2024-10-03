@@ -19,7 +19,7 @@ Apaixonada por criar soluções interativas e funcionais. Atualmente, trabalho c
 
 ## ✉️ Entre em contato
 
-(https://www.linkedin.com/in/vanessabispodev/)
+[![linkedin](https://www.linkedin.com/in/vanessabispodev/)
 [![GitHub](https://github.com/Vanessabispo)
 [![Email](wheidybispo1992@gmail.com)
 
